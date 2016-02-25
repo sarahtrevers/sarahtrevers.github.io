@@ -46,12 +46,12 @@
 		border2:			#fff,
 		border2-bg:			rgba(144,144,144,0.5),
 
-// accent1 = menu, main background etc.
+// accent1 = menu, first section background etc.
 		accent1: (
-			bg:				#ff3399,
+			bg:				#A7458A,
 			fg-bold:		#ffffff,
-			fg:				mix(#ff3399, #ffffff, 25%),
-			fg-light:		mix(#ff3399, #ffffff, 40%),
+			fg:				mix(#A7458A, #ffffff, 25%),
+			fg-light:		mix(#A7458A, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -91,11 +91,12 @@
 			border2-bg:		rgba(255,255,255,0.2)
 		),
 
+// accent5 = callout boxes
 		accent5: (
-			bg:				#cc33ff,
+			bg:				#802B67,
 			fg-bold:		#ffffff,
-			fg:				mix(#cc33ff, #ffffff, 25%),
-			fg-light:		mix(#cc33ff, #ffffff, 40%),
+			fg:				mix(#802B67, #ffffff, 25%),
+			fg-light:		mix(#802B67, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -104,10 +105,10 @@
 
 // accent6 = buttons etc.
 		accent6: (
-			bg:				#ff66ff,
+			bg:				#CE66AE,
 			fg-bold:		#ffffff,
-			fg:				mix(#ff66ff, #ffffff, 25%),
-			fg-light:		mix(#ff66ff, #ffffff, 40%),
+			fg:				mix(#CE66AE, #ffffff, 25%),
+			fg-light:		mix(#CE66AE, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),

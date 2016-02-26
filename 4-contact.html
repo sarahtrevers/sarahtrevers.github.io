@@ -7,6 +7,8 @@ permalink: /contact/
 			<section>
 				<h4>Contact Sarah</h4>
 				<form method="post" action="//formspree.io/info@sarahtrevers.co.uk">
+                    <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/confirmed" />
+                    <input type="text" name="_gotcha" style="display:none" />
 					<div class="row uniform">
 						<div class="6u 12u$(xsmall)">
 							<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />

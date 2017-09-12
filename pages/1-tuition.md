@@ -38,7 +38,4 @@ I am also able to offer violin and piano lessons for beginners. I welcome adults
 
 #### Location
 
-<span class="image right">
-	{% include map.html %}
-</span>
 I offer lessons at Cropwell Bishop (NG12) however, I am also able to travel to local locations, therefore please contact me to discuss the options available.  

@@ -7,6 +7,7 @@ permalink: /tuition/
 ## Singing Tuition
 
 #### Adult Lessons
+
 There are many different reasons why adults might like singing lessons, for example:
 
 <ul>

@@ -4,10 +4,9 @@ title: Repertoire
 tagline: A wide range of music from a variety of genres, suited to any occasion
 permalink: /repertoire/
 ---
-## {{ page.title }}
 Examples from my Repertoire are listed below, please note that this list is not exhaustive. If you would like a song that is not listed below then please contact me as it may already be within my repertoire, and if not then it may be possible for me to learn the song.
 
-### Sacred (particularly suitable for Memorials and Church weddings)  
+## Sacred (particularly suitable for Memorials and Church weddings)  
 Jesu Joy of Mans Desiring - Bach  
 Quia Respexit - from Magnificat - Bach  
 Ave Maria - Gounad/Bach  
@@ -31,8 +30,9 @@ Pie Jesu - Lloyd Webber
 The Lord is my Shepard - Goodall  
 Brother James’ Air James Leith Maccbeth Bain  
  
-### Secular (suitable for Memorials and Civil Weddings)
-Musical Theatre  
+## Secular (suitable for Memorials and Civil Weddings)
+
+### Musical Theatre  
 Cant help lovin’ that man of mine - from Show Boat  
 Summertime - from Gershwin  
 Memory Lloyd Webber  
@@ -55,18 +55,18 @@ Gurney - Sleep from Five Elizabethan Songs
 Maconchy - Ophelia’s Song  
 
 ### Folk Songs 
-Britten arrangements:
-- The Salley gardens  
-- Oliver Cromwell  
-- I will give my love an apple  
-
+The Salley gardens  
+Oliver Cromwell  
+I will give my love an apple  
 The Water is wide  
  
 ### Popular 
-Bridge over troubled water - Simon and Garfunkel  
-Somewhere over the Rainbow - Eva Cassidy  
-When you say nothing at all - Ronan Keating  
-Fields of Gold - Sting  
-Something - The Beatles  
-Imagine - The Beatles  
-The Rose - A. McBroom (Bette Midler)  
+Well known classic pop songs from a variety of artists, including:  
+  
+The Beatles  
+Simon & Garfunkel  
+Eva Cassidy  
+Norah Jones  
+Katie Mellua  
+Nina Simone  
+Carole King  

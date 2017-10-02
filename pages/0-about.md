@@ -4,4 +4,10 @@ title: About Sarah
 tagline: Sarah is an experienced performer and tutor in a wide range of genres and styles
 permalink: /about/
 ---
-I have been a singer from an extremely early age and sang extensively in my early years in choirs both at school and outside of School. I studied with Jane McDouall in my teenage years and obtained my Grade 8 prior to starting University. Whilst studying Geography at the University of Birmingham I took advantage of the links with the Birmingham Conservatoir where I studied voice with Andrea Calledine. Whilst in Birmingham I sang with the Birmingham University Singers and toured to Poznan for the International Choir Festival and also to Prague. Whilst completing my Masters at Nottingham University I sang with Viva Voce and toured to Dublin. I recently studied with Jane McDouall and obtained my singing performance diploma with the ABRSM. I am a member of the East of England Singers and regularly perform solos with the choir.
+Sarah has been a singer since a very early age, and sang extensively in choirs both inside and outside of school. During her teenage years she studied with Jane McDouall and obtained Grade 8 certification prior to starting University.
+
+Whilst studying Geography at the University of Birmingham, Sarah took advantage of the links with the Birmingham Conservatoire, where she studied Voice with Andrea Calladine. She also sang with the Birmingham University Singers and toured to Poznan for the International Choir Festival, as well as to Prague.
+
+Following Graduation, Sarah continued her studies by reading for a Masters at the University of Nottingham where she sang as a Soprano with Viva Voce and toured to Dublin as well as numerous performances in Nottinghamshire.
+
+In recent years, Sarah has continued studying with Jane McDouall, and in 2016 obtained her ABRSM Diploma in Music Performance. She sings with the East of England Singers as a Soprano in concerts throughout Nottinghamshire and the East Midlands, regularly performing solos with the choir. In addition to singing, Sarah is a member of the Nottingham Symphony Orchestra, playing the Violin.

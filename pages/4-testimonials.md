@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Testimonials
-# tagline: Some comments from previous customers
+tagline: Sarah has performed at many weddings and other such occasions, here are just a few comments about some of her past performances
 permalink: /testimonials/
 ---
-
-Sarah has performed at many weddings and other such occasions, here are just a few comments about some of her past performances.
 
 > Sarah’s sublime rendition of Mozart’s Laudate Dominum was the perfect accompaniment to our special day. Sarah has the voice of an angel!
 > #### Su and Simon, Mansfield

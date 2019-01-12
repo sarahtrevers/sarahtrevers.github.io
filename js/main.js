@@ -101,7 +101,7 @@
 	var $allVideos = $("iframe[src*='//www.youtube.com']"),
 
 		// The element that is fluid width
-		$fluidEl = $("body");
+		$fluidEl = $(".inner");
 
 	// Figure out and save aspect ratio for each video
 	$allVideos.each(function () {
@@ -119,7 +119,7 @@
 	$(window).resize(function () {
 
 		// Set minimum width to 300
-		var newWidth = Math.max($fluidEl.width() / 2.4, 350);
+		var newWidth = Math.max($fluidEl.width() / 2.1, 350);
 
 		// Resize all videos according to their own aspect ratio
 		$allVideos.each(function () {

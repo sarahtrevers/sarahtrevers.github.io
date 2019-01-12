@@ -18,3 +18,12 @@ The addition of a live vocal performance during a funeral ceremony can be a fitt
 
 ## Other Events and Special Occasions
 Whatever the occasion, a Soprano Soloist could add that little bit extra. Contact Sarah to discuss your event and how best to add that finishing touch.  
+
+<hr />
+
+## Examples of Sarah's performances
+Here are some videos showing Sarah performing some well known pieces.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbe4bezGb8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCkW6YOgWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

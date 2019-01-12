@@ -118,7 +118,8 @@
 	// When the window is resized
 	$(window).resize(function () {
 
-		var newWidth = $fluidEl.width() / 2.1;
+		// Set minimum width to 300
+		var newWidth = Math.max($fluidEl.width() / 2.1, 300);
 
 		// Resize all videos according to their own aspect ratio
 		$allVideos.each(function () {

@@ -98,7 +98,7 @@
 	});
 
 	// Find all YouTube videos
-	var $allVideos = $("iframe[src^='//www.youtube.com']"),
+	var $allVideos = $("iframe[src*='//www.youtube.com']"),
 
 		// The element that is fluid width
 		$fluidEl = $("body");

@@ -119,7 +119,7 @@
 	$(window).resize(function () {
 
 		var innerWidth = $fluidEl.width();
-		var newWidth = innerWidth < 600 ? innerWidth : innerWidth / 2.1;
+		var newWidth = innerWidth < 600 ? innerWidth : innerWidth / 2;
 
 		// Resize all videos according to their own aspect ratio
 		$allVideos.each(function () {

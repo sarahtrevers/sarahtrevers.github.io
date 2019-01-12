@@ -16,3 +16,6 @@ permalink: /testimonials/
 
 > Sarah's performance was beautiful and really suited the occasion and the venue, the congregation clearly enjoyed the performance. I'd definitely recommend her to friends and family.
 > #### Alison and Phil, West Bridgford
+
+> Thank you so much for singing at our wedding. You have the most beautiful voice, and your singing really made our ceremony come alive. It created such a special atmosphere in the church. All our friends and family commented on how wonderful you were. I'm sure they will still be talking about it in years to come. We are so grateful that you helped to make our day so special. 
+> #### Bryony and Mark, Quorn

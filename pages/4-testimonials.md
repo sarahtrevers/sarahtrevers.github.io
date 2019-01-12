@@ -16,3 +16,5 @@ Sarah has performed at many weddings and other such occasions, here are just a f
 > Sarah sang at my wedding. She has a beautiful voice which filled the church really well. Many of the guests commented on how much they had enjoyed her singing.
 > #### Helen and Duncan, Edinburgh
 
+> Sarah's performance was beautiful and really suited the occasion and the venue, the congregation clearly enjoyed the performance. I'd definitely recommend her to friends and family.
+> #### Alison and Phil, West Bridgford

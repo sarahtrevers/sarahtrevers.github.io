@@ -25,5 +25,3 @@ Whatever the occasion, a Soprano Soloist could add that little bit extra. Contac
 Here are some videos showing Sarah performing some well known pieces.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q6VlG763W9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hCkW6YOgWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

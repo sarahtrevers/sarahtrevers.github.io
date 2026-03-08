@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Sarah
-tagline: Sarah is an experienced performer and tutor in a wide range of genres and styles
+tagline: Sarah is an experienced musician and tutor in a wide range of genres and styles
 permalink: /about/
 ---
 Sarah has been a singer since a very early age, and sang extensively in choirs both inside and outside of school. During her teenage years she studied with Jane McDouall and obtained Grade 8 certification prior to starting University.
